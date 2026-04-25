@@ -140,7 +140,7 @@ export default function App() {
         <View style={styles.card}>
           <View style={styles.titleContainer}>
             <Image
-              source={require('@/assets/images/partial-react-logo.png')}
+              source={require('@/assets/images/icon.png')}
               style={styles.logo}
             />
             <Text style={styles.title}>Time Reality Check</Text>
@@ -179,7 +179,7 @@ export default function App() {
         <View style={styles.card}>
           <View style={styles.titleContainer}>
             <Image
-              source={require('@/assets/images/partial-react-logo.png')}
+              source={require('@/assets/images/icon.png')}
               style={styles.logo}
             />
             <Text style={styles.title}>Time Reality Check</Text>
@@ -209,7 +209,7 @@ export default function App() {
         <View style={styles.card}>
           <View style={styles.titleContainer}>
             <Image
-              source={require('@/assets/images/partial-react-logo.png')}
+              source={require('@/assets/images/icon.png')}
               style={styles.logo}
             />
             <Text style={styles.title}>Time Reality Check</Text>
